@@ -1,0 +1,24 @@
+# Verbora
+
+> A word puzzle for learning languages: find words with a letter wheel; every word comes with its own picture, meaning and an example sentence. Learning languages: English, Spanish, German, French, Italian. Website interface: Turkish and English. Free, no account. Mobile app (A1 to C1) coming soon.
+
+## Play
+- [Word puzzle](https://omerfrkuyk.github.io/verbora-demo/en/play/): A1 puzzles in five languages
+- [Mini games](https://omerfrkuyk.github.io/verbora-demo/en/games/): memory, quick match, letter rain, find the picture, listen and write
+- [Kids' corner](https://omerfrkuyk.github.io/verbora-demo/en/kids/): picture and sound games for ages 4-8, no data collected
+
+## A1 word lists
+- [English A1 words, English interface](https://omerfrkuyk.github.io/verbora-demo/en/english/a1/): 174 words with pictures
+- [English A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/ingilizce/a1/)
+- [Spanish A1 words, English interface](https://omerfrkuyk.github.io/verbora-demo/en/spanish/a1/): 176 words with pictures
+- [Spanish A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/ispanyolca/a1/)
+- [German A1 words, English interface](https://omerfrkuyk.github.io/verbora-demo/en/german/a1/): 176 words with pictures
+- [German A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/almanca/a1/)
+- [French A1 words, English interface](https://omerfrkuyk.github.io/verbora-demo/en/french/a1/): 175 words with pictures
+- [French A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/fransizca/a1/)
+- [Italian A1 words, English interface](https://omerfrkuyk.github.io/verbora-demo/en/italian/a1/): 175 words with pictures
+- [Italian A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/italyanca/a1/)
+
+## About
+- [About Verbora](https://omerfrkuyk.github.io/verbora-demo/en/about/)
+- [Terms of use](https://omerfrkuyk.github.io/verbora-demo/en/terms/): the pictures are copyrighted and not for AI training

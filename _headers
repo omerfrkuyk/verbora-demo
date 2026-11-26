@@ -1,0 +1,31 @@
+# Cloudflare Pages headers (ignored by GitHub Pages). See docs/website/cloudflare_koruma.md.
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  X-Frame-Options: SAMEORIGIN
+
+/i/*
+  Cache-Control: public, max-age=31536000, immutable
+  X-Robots-Tag: noimageai, noai
+  Cross-Origin-Resource-Policy: same-origin
+
+/d/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/s/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/cocuklar/*
+  Referrer-Policy: no-referrer
+  Content-Security-Policy: default-src 'self'; img-src 'self'; media-src 'self'; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+
+/en/kids/*
+  Referrer-Policy: no-referrer
+  Content-Security-Policy: default-src 'self'; img-src 'self'; media-src 'self'; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'

@@ -1,0 +1,66 @@
+# Preview: every page carries noindex until the domain goes live.
+
+# Verbora: text pages are open to search engines and AI assistants.
+# The word pictures (/i/) are copyrighted: not for AI training (see the terms of use).
+
+User-agent: GPTBot
+Disallow: /verbora-demo/i/
+
+User-agent: CCBot
+Disallow: /verbora-demo/i/
+
+User-agent: Google-Extended
+Disallow: /verbora-demo/i/
+
+User-agent: ClaudeBot
+Disallow: /verbora-demo/i/
+
+User-agent: anthropic-ai
+Disallow: /verbora-demo/i/
+
+User-agent: Claude-Web
+Disallow: /verbora-demo/i/
+
+User-agent: Bytespider
+Disallow: /verbora-demo/i/
+
+User-agent: Applebot-Extended
+Disallow: /verbora-demo/i/
+
+User-agent: meta-externalagent
+Disallow: /verbora-demo/i/
+
+User-agent: FacebookBot
+Disallow: /verbora-demo/i/
+
+User-agent: cohere-ai
+Disallow: /verbora-demo/i/
+
+User-agent: cohere-training-data-crawler
+Disallow: /verbora-demo/i/
+
+User-agent: Diffbot
+Disallow: /verbora-demo/i/
+
+User-agent: Omgilibot
+Disallow: /verbora-demo/i/
+
+User-agent: img2dataset
+Disallow: /verbora-demo/i/
+
+User-agent: Amazonbot
+Disallow: /verbora-demo/i/
+
+User-agent: Timpibot
+Disallow: /verbora-demo/i/
+
+User-agent: AI2Bot
+Disallow: /verbora-demo/i/
+
+User-agent: PanguBot
+Disallow: /verbora-demo/i/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://omerfrkuyk.github.io/verbora-demo/sitemap.xml
