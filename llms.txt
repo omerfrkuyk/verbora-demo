@@ -4,7 +4,7 @@
 
 ## Play
 - [Word puzzle](https://omerfrkuyk.github.io/verbora-demo/en/play/): A1 puzzles in five languages
-- [Mini games](https://omerfrkuyk.github.io/verbora-demo/en/games/): memory, quick match, letter rain, find the picture, listen and write
+- [Mini games](https://omerfrkuyk.github.io/verbora-demo/en/games/): memory, quick match, letter rain, find the picture, unscramble
 - [Kids' corner](https://omerfrkuyk.github.io/verbora-demo/en/kids/): picture and sound games for ages 4-8, no data collected
 
 ## A1 word lists
@@ -18,6 +18,20 @@
 - [French A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/fransizca/a1/)
 - [Italian A1 words, English interface](https://omerfrkuyk.github.io/verbora-demo/en/italian/a1/): 175 words with pictures
 - [Italian A1 words, Turkish interface](https://omerfrkuyk.github.io/verbora-demo/tr/italyanca/a1/)
+
+## Word archive (every level, A1 to C1, text only)
+- [English word archive](https://omerfrkuyk.github.io/verbora-demo/en/archive/english/): 2203 words; [A1](https://omerfrkuyk.github.io/verbora-demo/en/archive/english/a1/), [A2](https://omerfrkuyk.github.io/verbora-demo/en/archive/english/a2/), [B1](https://omerfrkuyk.github.io/verbora-demo/en/archive/english/b1/), [B2](https://omerfrkuyk.github.io/verbora-demo/en/archive/english/b2/), [C1](https://omerfrkuyk.github.io/verbora-demo/en/archive/english/c1/); [the 100 most common words](https://omerfrkuyk.github.io/verbora-demo/en/english/most-common-words/)
+- [Spanish word archive](https://omerfrkuyk.github.io/verbora-demo/en/archive/spanish/): 2110 words; [A1](https://omerfrkuyk.github.io/verbora-demo/en/archive/spanish/a1/), [A2](https://omerfrkuyk.github.io/verbora-demo/en/archive/spanish/a2/), [B1](https://omerfrkuyk.github.io/verbora-demo/en/archive/spanish/b1/), [B2](https://omerfrkuyk.github.io/verbora-demo/en/archive/spanish/b2/), [C1](https://omerfrkuyk.github.io/verbora-demo/en/archive/spanish/c1/); [the 100 most common words](https://omerfrkuyk.github.io/verbora-demo/en/spanish/most-common-words/)
+- [German word archive](https://omerfrkuyk.github.io/verbora-demo/en/archive/german/): 2174 words; [A1](https://omerfrkuyk.github.io/verbora-demo/en/archive/german/a1/), [A2](https://omerfrkuyk.github.io/verbora-demo/en/archive/german/a2/), [B1](https://omerfrkuyk.github.io/verbora-demo/en/archive/german/b1/), [B2](https://omerfrkuyk.github.io/verbora-demo/en/archive/german/b2/), [C1](https://omerfrkuyk.github.io/verbora-demo/en/archive/german/c1/); [the 100 most common words](https://omerfrkuyk.github.io/verbora-demo/en/german/most-common-words/)
+- [French word archive](https://omerfrkuyk.github.io/verbora-demo/en/archive/french/): 2119 words; [A1](https://omerfrkuyk.github.io/verbora-demo/en/archive/french/a1/), [A2](https://omerfrkuyk.github.io/verbora-demo/en/archive/french/a2/), [B1](https://omerfrkuyk.github.io/verbora-demo/en/archive/french/b1/), [B2](https://omerfrkuyk.github.io/verbora-demo/en/archive/french/b2/), [C1](https://omerfrkuyk.github.io/verbora-demo/en/archive/french/c1/); [the 100 most common words](https://omerfrkuyk.github.io/verbora-demo/en/french/most-common-words/)
+- [Italian word archive](https://omerfrkuyk.github.io/verbora-demo/en/archive/italian/): 2174 words; [A1](https://omerfrkuyk.github.io/verbora-demo/en/archive/italian/a1/), [A2](https://omerfrkuyk.github.io/verbora-demo/en/archive/italian/a2/), [B1](https://omerfrkuyk.github.io/verbora-demo/en/archive/italian/b1/), [B2](https://omerfrkuyk.github.io/verbora-demo/en/archive/italian/b2/), [C1](https://omerfrkuyk.github.io/verbora-demo/en/archive/italian/c1/); [the 100 most common words](https://omerfrkuyk.github.io/verbora-demo/en/italian/most-common-words/)
+
+## Pocket phrasebook (situations: airport, hotel, restaurant, shopping, directions, doctor, small talk, emergencies)
+- [Spanish phrases](https://omerfrkuyk.github.io/verbora-demo/en/situations/spanish/): 186 phrases and 215 words with English meanings; works offline
+- [German phrases](https://omerfrkuyk.github.io/verbora-demo/en/situations/german/): 190 phrases and 215 words with English meanings; works offline
+- [French phrases](https://omerfrkuyk.github.io/verbora-demo/en/situations/french/): 185 phrases and 215 words with English meanings; works offline
+- [Italian phrases](https://omerfrkuyk.github.io/verbora-demo/en/situations/italian/): 188 phrases and 215 words with English meanings; works offline
+- Turkish interface: https://omerfrkuyk.github.io/verbora-demo/durumlar/ (also English for Turkish speakers)
 
 ## About
 - [About Verbora](https://omerfrkuyk.github.io/verbora-demo/en/about/)

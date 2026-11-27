@@ -1,0 +1,1 @@
+import{b as e,s as t}from"./store.OOiNnIaS.js";var n=document.querySelector(`[data-save]`);if(n){let r=()=>{let e=t(n.dataset.code,n.dataset.save);n.setAttribute(`aria-pressed`,String(e)),n.classList.toggle(`btn--violet`,e),n.querySelector(`span`).textContent=e?n.dataset.on:n.dataset.off};r(),n.addEventListener(`click`,()=>{e(n.dataset.code,n.dataset.save,n.dataset.w),r()})}

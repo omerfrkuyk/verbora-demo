@@ -1,1 +1,0 @@
-import{a as e}from"./store.Ce4_vQSA.js";for(let t of document.querySelectorAll(`.pick-card`)){if(!t.querySelector(`[data-level]`))continue;let n=e(t.dataset.code);if(n.level>1){let e=t.querySelector(`[data-level]`);e.textContent=e.textContent.replace(/\d+(?= ·)/,String(n.level)),t.classList.add(`started`)}}
